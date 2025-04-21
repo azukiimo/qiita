@@ -9,3 +9,14 @@
 
 ### ライセンス
 * **Apache 2.0** 
+
+
+## Content
+### About this Repository
+* This repository contains data and ipynb files used in Qiita articles.Please use them as needed.
+
+### Note
+* The data is for practice purposes and is fictional.
+
+### License
+* Apache 2.0
