@@ -13,7 +13,7 @@
 ### 解説記事
 * sample_01.ipynb : [回帰分析](https://qiita.com/AzukiImo/items/d38f095f098607c32720)
 * sample_02.ipynb : [回帰分析・非線形化](https://qiita.com/AzukiImo/items/1f1497e5c52668147461)
-* sample_03.ipynb : [分類問題・ラーメン](https://qiita.com/AzukiImo/)
+* sample_03.ipynb : [分類問題・ラーメン](https://qiita.com/AzukiImo/items/01b348f5beb3d2979d44)
 
 
 ## Content
