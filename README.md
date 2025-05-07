@@ -25,5 +25,5 @@
 * The data is for practice purposes and is fictional.
 
 ### License
-* aiueo.npz : [ETL character database of National Institute of Advanced Industrial Science and Technology](http://etlcdb.db.aist.go.jp/) was used. Five images of “A, I, U, E, O” are extracted and scaled down to 28x28 size to correspond to MNIST. The license is in accordance with the ELT Character Database.
+* aiueo.npz : [ETL character database](http://etlcdb.db.aist.go.jp/) was used. Five images of “A, I, U, E, O” are extracted and scaled down to 28x28 size to correspond to MNIST. The license is in accordance with the ELT Character Database.
 * other datasets : **Apache 2.0**
