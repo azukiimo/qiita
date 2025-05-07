@@ -8,7 +8,8 @@
 * データは演習用で架空のものとなります。
 
 ### ライセンス
-* **Apache 2.0** 
+* aiueo.npz : [独立行政法人産業技術総合研究所のETL文字データベース](http://etlcdb.db.aist.go.jp/)を利用させていただきました。「あ・い・う・え・お」の５種類の画像を抽出しMNISTと対応させるべく28x28サイズに縮小したものを利用しています。ライセンスはELT文字データベースに従います。
+* それ以外のデータセット：**Apache 2.0** 
 
 ### 解説記事
 * sample_01.ipynb : [回帰分析](https://qiita.com/AzukiImo/items/d38f095f098607c32720)
@@ -24,4 +25,5 @@
 * The data is for practice purposes and is fictional.
 
 ### License
-* Apache 2.0
+* aiueo.npz : [ETL character database of National Institute of Advanced Industrial Science and Technology](http://etlcdb.db.aist.go.jp/) was used. Five images of “A, I, U, E, O” are extracted and scaled down to 28x28 size to correspond to MNIST. The license is in accordance with the ELT Character Database.
+* other datasets : **Apache 2.0**
