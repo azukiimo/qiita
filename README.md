@@ -18,6 +18,8 @@
 * sample_04.ipynb : [分類問題・CNN](https://qiita.com/AzukiImo/items/460880e1555ed93e347c)
 * sample_04_5.ipynb : [分類問題・可視化](https://qiita.com/AzukiImo/items/16e33d56fc1611c23a94)
 * sample_05.ipynb : [分類問題・CNN+プーリング層](https://qiita.com/AzukiImo/items/4a2fb395b769d6bc9f3c)
+* sample_06.ipynb : [中間層特徴量の抽出](https://qiita.com/AzukiImo/items/c19bc36a613a6f1caf00)
+
 
 
 ## Content
