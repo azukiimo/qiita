@@ -9,6 +9,7 @@
 
 ### ライセンス
 * aiueo.npz : [独立行政法人産業技術総合研究所のETL文字データベース](http://etlcdb.db.aist.go.jp/)を利用させていただきました。「あ・い・う・え・お」の５種類の画像を抽出しMNISTと対応させるべく28x28サイズに縮小したものを利用しています。ライセンスはELT文字データベースに従います。
+* lion.jpg :  [正面から見たライオンの写真素材フリー](https://www.kenpo21.com/large/zoo24_jpg.html)を利用しています。
 * それ以外のデータセット：**Apache 2.0** 
 
 ### 解説記事
@@ -19,7 +20,7 @@
 * sample_04_5.ipynb : [分類問題・可視化](https://qiita.com/AzukiImo/items/16e33d56fc1611c23a94)
 * sample_05.ipynb : [分類問題・CNN+プーリング層](https://qiita.com/AzukiImo/items/4a2fb395b769d6bc9f3c)
 * sample_06.ipynb : [中間層特徴量の抽出](https://qiita.com/AzukiImo/items/c19bc36a613a6f1caf00)
-
+* sample_07.ipynb : [VGG16での特徴量の抽出](https://qiita.com/AzukiImo/items/63c491683ed52927f909)
 
 
 ## Content
@@ -31,4 +32,5 @@
 
 ### License
 * aiueo.npz : [ETL character database](http://etlcdb.db.aist.go.jp/) was used. Five images of “A, I, U, E, O” are extracted and scaled down to 28x28 size to correspond to MNIST. The license is in accordance with the ELT Character Database.
+* lion.jpg : [free stock photo of a lion from the front](https://www.kenpo21.com/large/zoo24_jpg.html).
 * other datasets : **Apache 2.0**
