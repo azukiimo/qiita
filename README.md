@@ -21,6 +21,7 @@
 * sample_05.ipynb : [分類問題・CNN+プーリング層](https://qiita.com/AzukiImo/items/4a2fb395b769d6bc9f3c)
 * sample_06.ipynb : [中間層特徴量の抽出](https://qiita.com/AzukiImo/items/c19bc36a613a6f1caf00)
 * sample_07.ipynb : [VGG16での特徴量の抽出](https://qiita.com/AzukiImo/items/63c491683ed52927f909)
+* sample_08.ipynb : [時系列・LSTM](https://qiita.com/AzukiImo/items/516513f79d4612387418)
 
 
 ## Content
