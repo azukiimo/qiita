@@ -23,8 +23,8 @@
 * sample_07.ipynb : [VGG16での特徴量の抽出](https://qiita.com/AzukiImo/items/63c491683ed52927f909)
 * sample_08.ipynb : [時系列・LSTM](https://qiita.com/AzukiImo/items/516513f79d4612387418)
 * sample_09.ipynb : [時系列・LSTM２](https://qiita.com/AzukiImo/items/e04318b6845aa609be8f)
-* sample_10_08.ipynb : [時系列・指標計算(8回モデル)](https://qiita.com/AzukiImo/items/e04318b6845aa609be8f) dummy
-* sample_10_09.ipynb : [時系列・指標計算(9回モデル)](https://qiita.com/AzukiImo/items/e04318b6845aa609be8f)
+* sample_10_08.ipynb : [時系列・指標計算(8回モデル)](https://qiita.com/AzukiImo/items/414ef051bc913939e44f)
+* sample_10_09.ipynb : [時系列・指標計算(9回モデル)](https://qiita.com/AzukiImo/items/414ef051bc913939e44f)
 
 ## Content
 ### About this Repository
