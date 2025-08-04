@@ -26,6 +26,7 @@
 * sample_10_08.ipynb : [時系列・指標計算(8回モデル)](https://qiita.com/AzukiImo/items/414ef051bc913939e44f)
 * sample_10_09.ipynb : [時系列・指標計算(9回モデル)](https://qiita.com/AzukiImo/items/414ef051bc913939e44f)
 * sample_11.ipynb : [時系列・系列変換](https://qiita.com/AzukiImo/items/d2b184c43079d7d26c70)
+* sample_12_5.ipynb : [音楽データ](https://qiita.com/AzukiImo/items/e2bf64323d31ee50e389)
 
 ## Content
 ### About this Repository
