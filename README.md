@@ -10,7 +10,9 @@
 ### ライセンス
 * aiueo.npz : [独立行政法人産業技術総合研究所のETL文字データベース](http://etlcdb.db.aist.go.jp/)を利用させていただきました。「あ・い・う・え・お」の５種類の画像を抽出しMNISTと対応させるべく28x28サイズに縮小したものを利用しています。ライセンスはELT文字データベースに従います。
 * lion.jpg :  [正面から見たライオンの写真素材フリー](https://www.kenpo21.com/large/zoo24_jpg.html)を利用しています。
-* それ以外のデータセット：**Apache 2.0** 
+* それ以外のデータセット：**Apache 2.0**
+* minatoku_gomi.csv : 出典：港区オープンデータカタログサイト[港区のごみ収集量【速報値】](https://opendata.city.minato.tokyo.jp/dataset/gomishushu)からごみの種類（可燃ごみ、不燃ごみ、粗大ごみ、管路収集）と月データに抽出加工して作成
+
 
 ### 解説記事
 * sample_01.ipynb : [回帰分析](https://qiita.com/AzukiImo/items/d38f095f098607c32720)
@@ -27,8 +29,9 @@
 * sample_10_09.ipynb : [時系列・指標計算(9回モデル)](https://qiita.com/AzukiImo/items/414ef051bc913939e44f)
 * sample_11.ipynb : [時系列・系列変換](https://qiita.com/AzukiImo/items/d2b184c43079d7d26c70)
 * sample_12_5.ipynb : [音楽データ](https://qiita.com/AzukiImo/items/e2bf64323d31ee50e389)
-* sample_13.ipynb : [音楽ジャンル分類01]()
-* sample_14.ipynb : [音楽ジャンル分類02]()
+* sample_13.ipynb : [音楽ジャンル分類01](https://qiita.com/AzukiImo/items/91f72842beafda7a0cd0)
+* sample_14.ipynb : [音楽ジャンル分類02](https://qiita.com/AzukiImo/items/86a35c7645aa3a35fa41)
+* sample_16.ipynb : [時系列・因果畳み込み]()
 
 
 ## Content
