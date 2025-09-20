@@ -31,7 +31,8 @@
 * sample_12_5.ipynb : [音楽データ](https://qiita.com/AzukiImo/items/e2bf64323d31ee50e389)
 * sample_13.ipynb : [音楽ジャンル分類01](https://qiita.com/AzukiImo/items/91f72842beafda7a0cd0)
 * sample_14.ipynb : [音楽ジャンル分類02](https://qiita.com/AzukiImo/items/86a35c7645aa3a35fa41)
-* sample_16.ipynb : [時系列・因果畳み込み]()
+* sample_16.ipynb : [時系列・因果畳み込み](https://qiita.com/AzukiImo/items/521925e1fd92664a4f38)
+* sample_17.ipynb : [分位点回帰]()
 
 
 ## Content
