@@ -34,7 +34,7 @@
 * sample_16.ipynb : [時系列・因果畳み込み](https://qiita.com/AzukiImo/items/521925e1fd92664a4f38)
 * sample_17.ipynb : [分位点回帰](https://qiita.com/AzukiImo/items/95eaf3c924c842da85b9)
 * sample_18.ipynb : [分位点回帰・時系列](https://qiita.com/AzukiImo/items/95eaf3c924c842da85b9)
-
+* sample_20.ipynb : [テキスト分類１・CNN](https://qiita.com/AzukiImo/items/7edeef35386324decf4e)
 
 ## Content
 ### About this Repository
