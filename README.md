@@ -46,7 +46,7 @@
 ### License
 * aiueo.npz : [ETL character database](http://etlcdb.db.aist.go.jp/) was used. Five images of “A, I, U, E, O” are extracted and scaled down to 28x28 size to correspond to MNIST. The license is in accordance with the ELT Character Database.
 * lion.jpg : [free stock photo of a lion from the front](https://www.kenpo21.com/large/zoo24_jpg.html).
-* other datasets : **Apache 2.0**
+* other datasets : **CC BY 4.0**
 * minatoku_gomi.csv : Created by extracting and processing waste types (combustible waste, non-combustible waste, bulky waste, pipeline collection) and monthly data from "Minato-ku Waste Collection Volume [Preliminary Figures]" on the Minato-ku Open Data Catalog Site
 
 
