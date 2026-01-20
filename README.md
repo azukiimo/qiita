@@ -36,7 +36,7 @@
 * sample_18.ipynb : [分位点回帰・時系列](https://qiita.com/AzukiImo/items/95eaf3c924c842da85b9)
 * sample_20.ipynb : [テキスト分類１・CNN](https://qiita.com/AzukiImo/items/7edeef35386324decf4e)
 * sample_21.ipynb : [テキスト分類２・Conv1d](https://qiita.com/AzukiImo/items/99ad3e952dec412e4412)
-* sample_22.ipynb : [テキスト分類３・Transformer]()
+* sample_22.ipynb : [テキスト分類３・Transformer](https://qiita.com/AzukiImo/items/ba5a83cc16a65759089e)
   
 
 ## Content
