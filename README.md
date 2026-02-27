@@ -39,6 +39,7 @@
 * sample_22.ipynb : [テキスト分類３・Transformer](https://qiita.com/AzukiImo/items/ba5a83cc16a65759089e)
 * sample_22_5.ipynb : [MultiHeadAttention](https://qiita.com/AzukiImo/items/4f65491d8710caf4f226)
 * sample_23.ipynb : [テキスト分類４・Attention Weightsの可視化](https://qiita.com/AzukiImo/items/dbb2119f19369ad99457)
+* sample_24.ipynb : マルチラベル分類]()
   
 
 ## Content
