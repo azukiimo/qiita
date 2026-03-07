@@ -40,7 +40,7 @@
 * sample_22_5.ipynb : [MultiHeadAttention](https://qiita.com/AzukiImo/items/4f65491d8710caf4f226)
 * sample_23.ipynb : [テキスト分類４・Attention Weightsの可視化](https://qiita.com/AzukiImo/items/dbb2119f19369ad99457)
 * sample_24.ipynb : [マルチラベル分類](https://qiita.com/AzukiImo/items/81358c1011bccb35043c)
-* sample_25.ipynb : [トークナイズ編・BPE]
+* sample_25.ipynb : [トークナイズ編・BPE](https://qiita.com/AzukiImo/items/6484216c6f08cd9ff418)
   
 
 ## Content
