@@ -42,6 +42,7 @@
 * sample_24.ipynb : [マルチラベル分類](https://qiita.com/AzukiImo/items/81358c1011bccb35043c)
 * sample_25.ipynb : [トークナイズ編・BPE](https://qiita.com/AzukiImo/items/6484216c6f08cd9ff418)
 * sample_26.ipynb : [トークナイズ編・word piece](https://qiita.com/AzukiImo/items/2e2b2a342cf35510f916)
+* sample_27.ipynb : [トークナイズ編・unigram language model] 準備中
   
 
 ## Content
