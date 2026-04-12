@@ -43,12 +43,7 @@
 * sample_25.ipynb : [トークナイズ編・BPE](https://qiita.com/AzukiImo/items/6484216c6f08cd9ff418)
 * sample_26.ipynb : [トークナイズ編・word piece](https://qiita.com/AzukiImo/items/2e2b2a342cf35510f916)
 * sample_27.ipynb : [トークナイズ編・unigram language model](https://qiita.com/AzukiImo/items/b022bf3f64e92e0d547a)
-<<<<<<< HEAD
 * sample_29.ipynb : [MLM事前学習編・マスク化] 準備中・近日中
-
-=======
-* sample_29.ipynb : [MLM事前学習編・マスク化] 準備中 
->>>>>>> origin/main
 
 ## Content
 ### About this Repository
