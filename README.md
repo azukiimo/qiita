@@ -44,7 +44,7 @@
 * sample_26.ipynb : [トークナイズ編・word piece](https://qiita.com/AzukiImo/items/2e2b2a342cf35510f916)
 * sample_27.ipynb : [トークナイズ編・unigram language model](https://qiita.com/AzukiImo/items/b022bf3f64e92e0d547a)
 * sample_29.ipynb : [MLM事前学習編・マスク化](https://qiita.com/AzukiImo/items/ce9736df44eb5ead6c62) 
-* sample_30.ipynb : [MLM事前学習編・モデル]準備中
+* sample_30.ipynb : [MLM事前学習編・モデル](https://qiita.com/AzukiImo/items/85a174948ae2541da425)
 
 
 ## Content
