@@ -46,7 +46,7 @@
 * sample_29.ipynb : [MLM事前学習編・マスク化](https://qiita.com/AzukiImo/items/ce9736df44eb5ead6c62) 
 * sample_30.ipynb : [MLM事前学習編・モデル](https://qiita.com/AzukiImo/items/85a174948ae2541da425)
 * sample_31.ipynb : [MLM事前学習編・事前学習](https://qiita.com/AzukiImo/items/9d1356ebfacf6ba13511)
-* sample_32.ipynb : [MLM事前学習編・転移学習]準備中
+* sample_32.ipynb : [MLM事前学習編・転移学習](https://qiita.com/AzukiImo/items/ce90cd98ca7b09bb6ba9)
 
 ## Content
 ### About this Repository
