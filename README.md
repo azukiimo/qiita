@@ -54,7 +54,7 @@
 * sample_30.ipynb : [MLM事前学習編・モデル](https://qiita.com/AzukiImo/items/85a174948ae2541da425)
 * sample_31.ipynb : [MLM事前学習編・事前学習](https://qiita.com/AzukiImo/items/9d1356ebfacf6ba13511)
 * sample_32.ipynb : [MLM事前学習編・転移学習](https://qiita.com/AzukiImo/items/ce90cd98ca7b09bb6ba9)
-* sample_33.ipynb : Datasetカスタマイズ・準備中
+* sample_33.ipynb : [Datasetクラスのカスタマイズ](https://qiita.com/AzukiImo/items/1a051a5c6f1d0296f4ed)
 
 ## Content
 ### About this Repository
