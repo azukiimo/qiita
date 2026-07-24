@@ -57,6 +57,8 @@
 * sample_33.ipynb : [Datasetクラスのカスタマイズ](https://qiita.com/AzukiImo/items/1a051a5c6f1d0296f4ed)
 * sample_34.ipynb : [DataLoaderの使い方](https://qiita.com/AzukiImo/items/28e5e3c3731c28a58e56)
 * sample_35.ipynb : [可変長のテキスト分類](https://qiita.com/AzukiImo/items/932a2ee8a6d6dddc978c)
+* sample_36.ipynb：[可変長データでのBERT事前学習](https://qiita.com/AzukiImo/items/025a1dffe51413c3194c)
+
 
 ## Content
 ### About this Repository
