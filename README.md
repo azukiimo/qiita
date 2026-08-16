@@ -50,15 +50,16 @@
 * sample_25.ipynb : [トークナイズ編・BPE](https://qiita.com/AzukiImo/items/6484216c6f08cd9ff418)
 * sample_26.ipynb : [トークナイズ編・word piece](https://qiita.com/AzukiImo/items/2e2b2a342cf35510f916)
 * sample_27.ipynb : [トークナイズ編・unigram language model](https://qiita.com/AzukiImo/items/b022bf3f64e92e0d547a)
-* sample_29.ipynb : [MLM事前学習編・マスク化](https://qiita.com/AzukiImo/items/ce9736df44eb5ead6c62) 
-* sample_30.ipynb : [MLM事前学習編・モデル](https://qiita.com/AzukiImo/items/85a174948ae2541da425)
-* sample_31.ipynb : [MLM事前学習編・事前学習](https://qiita.com/AzukiImo/items/9d1356ebfacf6ba13511)
-* sample_32.ipynb : [MLM事前学習編・転移学習](https://qiita.com/AzukiImo/items/ce90cd98ca7b09bb6ba9)
+* sample_29.ipynb : [BERTタイプ編・マスク化](https://qiita.com/AzukiImo/items/ce9736df44eb5ead6c62) 
+* sample_30.ipynb : [BERTタイプ編・モデル](https://qiita.com/AzukiImo/items/85a174948ae2541da425)
+* sample_31.ipynb : [BERTタイプ編・事前学習](https://qiita.com/AzukiImo/items/9d1356ebfacf6ba13511)
+* sample_32.ipynb : [BERTタイプ編・転移学習](https://qiita.com/AzukiImo/items/ce90cd98ca7b09bb6ba9)
 * sample_33.ipynb : [Datasetクラスのカスタマイズ](https://qiita.com/AzukiImo/items/1a051a5c6f1d0296f4ed)
 * sample_34.ipynb : [DataLoaderの使い方](https://qiita.com/AzukiImo/items/28e5e3c3731c28a58e56)
 * sample_35.ipynb : [可変長のテキスト分類](https://qiita.com/AzukiImo/items/932a2ee8a6d6dddc978c)
 * sample_36.ipynb：[可変長データでのBERT事前学習](https://qiita.com/AzukiImo/items/025a1dffe51413c3194c)
 * sample_37.ipynb: [DataCollatorWithPadding](https://qiita.com/AzukiImo/items/cc51267d9cb3fe66f70b)
+* sample_38.ipynb: [GPTタイプ編・事前学習]準備中
 
 ## Content
 ### About this Repository
