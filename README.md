@@ -60,7 +60,7 @@
 * sample_36.ipynb：[可変長データでのBERT事前学習](https://qiita.com/AzukiImo/items/025a1dffe51413c3194c)
 * sample_37.ipynb: [DataCollatorWithPadding](https://qiita.com/AzukiImo/items/cc51267d9cb3fe66f70b)
 * sample_38.ipynb: [GPTタイプ編・事前学習](https://qiita.com/AzukiImo/items/abae2755cf284a85366d)
-* sample_39.ipynb: [GPTタイプ編・分類問題]準備中
+* sample_39.ipynb: [GPTタイプ編・分類問題](https://qiita.com/AzukiImo/items/b2bd93c4592a41e32f41)
 
 ## Content
 ### About this Repository
