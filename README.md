@@ -64,7 +64,7 @@
 * sample_40.ipynb: [GPTタイプ編・指示チューニング](https://qiita.com/AzukiImo/items/224932fb4ec3c9ed21d4)
 * sample_41.ipynb: [GPTタイプ編・事前学習２/Transformer実装](https://qiita.com/AzukiImo/items/bca5d230ebfd9c406d2a)
 * sample_42.ipynb: [Llama化編・RMSNorm・SwiGLU](https://qiita.com/AzukiImo/items/657dbf034d64134b98ac)
-
+* sample_43.ipynb: 準備中[Llama化編・KVキャッシュ]
 
 
 ## Content
